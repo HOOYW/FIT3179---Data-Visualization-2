@@ -1,0 +1,529 @@
+Rank,Country,Quality of Life Index,Properties,Value,Continent
+1,Austria,190.37,Purchasing Power Index,95.66,Europe
+1,Austria,190.37,Safety Index,80.75,Europe
+1,Austria,190.37,Health Care Index,80.91,Europe
+1,Austria,190.37,Cost of Living Index,71.52,Europe
+1,Austria,190.37,Property Price to Income Ratio,9.66,Europe
+1,Austria,190.37,Traffic Commute Time Index,26.27,Europe
+1,Austria,190.37,Pollution Index,21.9,Europe
+1,Austria,190.37,Climate Index,62.13,Europe
+2,Germany,189.74,Purchasing Power Index,124.88,Europe
+2,Germany,189.74,Safety Index,67.97,Europe
+2,Germany,189.74,Health Care Index,76.74,Europe
+2,Germany,189.74,Cost of Living Index,65.5,Europe
+2,Germany,189.74,Property Price to Income Ratio,7.46,Europe
+2,Germany,189.74,Traffic Commute Time Index,30.55,Europe
+2,Germany,189.74,Pollution Index,27.05,Europe
+2,Germany,189.74,Climate Index,57.97,Europe
+3,Denmark,184.92,Purchasing Power Index,98.76,Europe
+3,Denmark,184.92,Safety Index,78.87,Europe
+3,Denmark,184.92,Health Care Index,75.45,Europe
+3,Denmark,184.92,Cost of Living Index,83.02,Europe
+3,Denmark,184.92,Property Price to Income Ratio,8.2,Europe
+3,Denmark,184.92,Traffic Commute Time Index,28.42,Europe
+3,Denmark,184.92,Pollution Index,25.97,Europe
+3,Denmark,184.92,Climate Index,64.24,Europe
+4,New Zealand,184.74,Purchasing Power Index,89.87,Oceania
+4,New Zealand,184.74,Safety Index,61.22,Oceania
+4,New Zealand,184.74,Health Care Index,70.58,Oceania
+4,New Zealand,184.74,Cost of Living Index,80.77,Oceania
+4,New Zealand,184.74,Property Price to Income Ratio,8.14,Oceania
+4,New Zealand,184.74,Traffic Commute Time Index,30.23,Oceania
+4,New Zealand,184.74,Pollution Index,20.03,Oceania
+4,New Zealand,184.74,Climate Index,85.41,Oceania
+5,Spain,183.65,Purchasing Power Index,87.87,Europe
+5,Spain,183.65,Safety Index,68.72,Europe
+5,Spain,183.65,Health Care Index,76.65,Europe
+5,Spain,183.65,Cost of Living Index,54.98,Europe
+5,Spain,183.65,Property Price to Income Ratio,8.26,Europe
+5,Spain,183.65,Traffic Commute Time Index,32.63,Europe
+5,Spain,183.65,Pollution Index,37.46,Europe
+5,Spain,183.65,Climate Index,88.04,Europe
+6,Finland,182.93,Purchasing Power Index,114.97,Europe
+6,Finland,182.93,Safety Index,75.37,Europe
+6,Finland,182.93,Health Care Index,74.85,Europe
+6,Finland,182.93,Cost of Living Index,73.06,Europe
+6,Finland,182.93,Property Price to Income Ratio,7.6,Europe
+6,Finland,182.93,Traffic Commute Time Index,34.92,Europe
+6,Finland,182.93,Pollution Index,13.38,Europe
+6,Finland,182.93,Climate Index,35.83,Europe
+7,United States,179.73,Purchasing Power Index,123.17,North and South America
+7,United States,179.73,Safety Index,51.24,North and South America
+7,United States,179.73,Health Care Index,68.22,North and South America
+7,United States,179.73,Cost of Living Index,75.42,North and South America
+7,United States,179.73,Property Price to Income Ratio,3.26,North and South America
+7,United States,179.73,Traffic Commute Time Index,34.58,North and South America
+7,United States,179.73,Pollution Index,31.19,North and South America
+7,United States,179.73,Climate Index,67.95,North and South America
+8,Portugal,178.43,Purchasing Power Index,62.72,Others
+8,Portugal,178.43,Safety Index,64.61,Others
+8,Portugal,178.43,Health Care Index,70.31,Others
+8,Portugal,178.43,Cost of Living Index,49.19,Others
+8,Portugal,178.43,Property Price to Income Ratio,8.85,Others
+8,Portugal,178.43,Traffic Commute Time Index,30.44,Others
+8,Portugal,178.43,Pollution Index,28.91,Others
+8,Portugal,178.43,Climate Index,92.19,Others
+9,Australia,176.54,Purchasing Power Index,101.94,Oceania
+9,Australia,176.54,Safety Index,57.58,Oceania
+9,Australia,176.54,Health Care Index,74.25,Oceania
+9,Australia,176.54,Cost of Living Index,80.66,Oceania
+9,Australia,176.54,Property Price to Income Ratio,9.24,Oceania
+9,Australia,176.54,Traffic Commute Time Index,34.73,Oceania
+9,Australia,176.54,Pollution Index,24.58,Oceania
+9,Australia,176.54,Climate Index,72.79,Oceania
+10,Slovenia,175.45,Purchasing Power Index,78.23,Europe
+10,Slovenia,175.45,Safety Index,75.95,Europe
+10,Slovenia,175.45,Health Care Index,64.35,Europe
+10,Slovenia,175.45,Cost of Living Index,53.24,Europe
+10,Slovenia,175.45,Property Price to Income Ratio,8.34,Europe
+10,Slovenia,175.45,Traffic Commute Time Index,26.48,Europe
+10,Slovenia,175.45,Pollution Index,26.37,Europe
+10,Slovenia,175.45,Climate Index,60.5,Europe
+11,Netherlands,175.23,Purchasing Power Index,86.52,Europe
+11,Netherlands,175.23,Safety Index,70.11,Europe
+11,Netherlands,175.23,Health Care Index,82.5,Europe
+11,Netherlands,175.23,Cost of Living Index,72.47,Europe
+11,Netherlands,175.23,Property Price to Income Ratio,8.52,Europe
+11,Netherlands,175.23,Traffic Commute Time Index,33.9,Europe
+11,Netherlands,175.23,Pollution Index,27.62,Europe
+11,Netherlands,175.23,Climate Index,61.87,Europe
+12,Switzerland,173.54,Purchasing Power Index,95.35,Europe
+12,Switzerland,173.54,Safety Index,77.55,Europe
+12,Switzerland,173.54,Health Care Index,71.04,Europe
+12,Switzerland,173.54,Cost of Living Index,122.06,Europe
+12,Switzerland,173.54,Property Price to Income Ratio,14.04,Europe
+12,Switzerland,173.54,Traffic Commute Time Index,28.3,Europe
+12,Switzerland,173.54,Pollution Index,20.77,Europe
+12,Switzerland,173.54,Climate Index,69.32,Europe
+13,United Kingdom,172.87,Purchasing Power Index,96.85,Europe
+13,United Kingdom,172.87,Safety Index,58.81,Europe
+13,United Kingdom,172.87,Health Care Index,74.28,Europe
+13,United Kingdom,172.87,Cost of Living Index,69.49,Europe
+13,United Kingdom,172.87,Property Price to Income Ratio,10,Europe
+13,United Kingdom,172.87,Traffic Commute Time Index,34.6,Europe
+13,United Kingdom,172.87,Pollution Index,34.88,Europe
+13,United Kingdom,172.87,Climate Index,78.91,Europe
+14,Sweden,172.74,Purchasing Power Index,107.23,Europe
+14,Sweden,172.74,Safety Index,53.35,Europe
+14,Sweden,172.74,Health Care Index,70.64,Europe
+14,Sweden,172.74,Cost of Living Index,75.88,Europe
+14,Sweden,172.74,Property Price to Income Ratio,11.77,Europe
+14,Sweden,172.74,Traffic Commute Time Index,31.6,Europe
+14,Sweden,172.74,Pollution Index,17.87,Europe
+14,Sweden,172.74,Climate Index,59.13,Europe
+15,Estonia,171.09,Purchasing Power Index,68.48,Europe
+15,Estonia,171.09,Safety Index,77,Europe
+15,Estonia,171.09,Health Care Index,71.3,Europe
+15,Estonia,171.09,Cost of Living Index,49.5,Europe
+15,Estonia,171.09,Property Price to Income Ratio,10.54,Europe
+15,Estonia,171.09,Traffic Commute Time Index,26.71,Europe
+15,Estonia,171.09,Pollution Index,17.71,Europe
+15,Estonia,171.09,Climate Index,44.56,Europe
+16,Croatia,170.63,Purchasing Power Index,60.71,Europe
+16,Croatia,170.63,Safety Index,72.2,Europe
+16,Croatia,170.63,Health Care Index,65.49,Europe
+16,Croatia,170.63,Cost of Living Index,48,Europe
+16,Croatia,170.63,Property Price to Income Ratio,10.91,Europe
+16,Croatia,170.63,Traffic Commute Time Index,28.45,Europe
+16,Croatia,170.63,Pollution Index,33.34,Europe
+16,Croatia,170.63,Climate Index,82.02,Europe
+17,Canada,167.18,Purchasing Power Index,108.01,North and South America
+17,Canada,167.18,Safety Index,60.75,North and South America
+17,Canada,167.18,Health Care Index,69.23,North and South America
+17,Canada,167.18,Cost of Living Index,70.16,North and South America
+17,Canada,167.18,Property Price to Income Ratio,6.4,North and South America
+17,Canada,167.18,Traffic Commute Time Index,36.24,North and South America
+17,Canada,167.18,Pollution Index,26.54,North and South America
+17,Canada,167.18,Climate Index,44.31,North and South America
+18,Ireland,166.9,Purchasing Power Index,103.52,Europe
+18,Ireland,166.9,Safety Index,54.23,Europe
+18,Ireland,166.9,Health Care Index,53.33,Europe
+18,Ireland,166.9,Cost of Living Index,76.98,Europe
+18,Ireland,166.9,Property Price to Income Ratio,7.02,Europe
+18,Ireland,166.9,Traffic Commute Time Index,35.01,Europe
+18,Ireland,166.9,Pollution Index,27.18,Europe
+18,Ireland,166.9,Climate Index,70.18,Europe
+19,Cyprus,166.64,Purchasing Power Index,95.92,Europe
+19,Cyprus,166.64,Safety Index,67.54,Europe
+19,Cyprus,166.64,Health Care Index,54.23,Europe
+19,Cyprus,166.64,Cost of Living Index,54.07,Europe
+19,Cyprus,166.64,Property Price to Income Ratio,5.21,Europe
+19,Cyprus,166.64,Traffic Commute Time Index,20.32,Europe
+19,Cyprus,166.64,Pollution Index,54.77,Europe
+19,Cyprus,166.64,Climate Index,71.01,Europe
+20,Norway,165.93,Purchasing Power Index,105.58,Europe
+20,Norway,165.93,Safety Index,54.31,Europe
+20,Norway,165.93,Health Care Index,74.19,Europe
+20,Norway,165.93,Cost of Living Index,106.31,Europe
+20,Norway,165.93,Property Price to Income Ratio,7.9,Europe
+20,Norway,165.93,Traffic Commute Time Index,31.32,Europe
+20,Norway,165.93,Pollution Index,19.45,Europe
+20,Norway,165.93,Climate Index,49.32,Europe
+21,Czech Republic,165.41,Purchasing Power Index,76.22,Europe
+21,Czech Republic,165.41,Safety Index,69.82,Europe
+21,Czech Republic,165.41,Health Care Index,74.09,Europe
+21,Czech Republic,165.41,Cost of Living Index,41.22,Europe
+21,Czech Republic,165.41,Property Price to Income Ratio,10.7,Europe
+21,Czech Republic,165.41,Traffic Commute Time Index,31.98,Europe
+21,Czech Republic,165.41,Pollution Index,41.04,Europe
+21,Czech Republic,165.41,Climate Index,65.32,Europe
+22,South Korea,162.49,Purchasing Power Index,102.38,Asia
+22,South Korea,162.49,Safety Index,74.73,Asia
+22,South Korea,162.49,Health Care Index,83.2,Asia
+22,South Korea,162.49,Cost of Living Index,75.41,Asia
+22,South Korea,162.49,Property Price to Income Ratio,12.38,Asia
+22,South Korea,162.49,Traffic Commute Time Index,34.18,Asia
+22,South Korea,162.49,Pollution Index,52.73,Asia
+22,South Korea,162.49,Climate Index,61.2,Asia
+23,Belgium,160.52,Purchasing Power Index,91.02,Europe
+23,Belgium,160.52,Safety Index,55.49,Europe
+23,Belgium,160.52,Health Care Index,78.92,Europe
+23,Belgium,160.52,Cost of Living Index,75.36,Europe
+23,Belgium,160.52,Property Price to Income Ratio,6.96,Europe
+23,Belgium,160.52,Traffic Commute Time Index,36.26,Europe
+23,Belgium,160.52,Pollution Index,48.92,Europe
+23,Belgium,160.52,Climate Index,75.16,Europe
+24,France,160.25,Purchasing Power Index,87.29,Europe
+24,France,160.25,Safety Index,56.34,Europe
+24,France,160.25,Health Care Index,78.62,Europe
+24,France,160.25,Cost of Living Index,74.89,Europe
+24,France,160.25,Property Price to Income Ratio,11.58,Europe
+24,France,160.25,Traffic Commute Time Index,35.81,Europe
+24,France,160.25,Pollution Index,40.15,Europe
+24,France,160.25,Climate Index,73.91,Europe
+25,Israel,157.88,Purchasing Power Index,94.47,Asia
+25,Israel,157.88,Safety Index,70.99,Asia
+25,Israel,157.88,Health Care Index,74.78,Asia
+25,Israel,157.88,Cost of Living Index,77.74,Asia
+25,Israel,157.88,Property Price to Income Ratio,10.87,Asia
+25,Israel,157.88,Traffic Commute Time Index,36.52,Asia
+25,Israel,157.88,Pollution Index,61.71,Asia
+25,Israel,157.88,Climate Index,81.01,Asia
+26,Slovakia,152.55,Purchasing Power Index,64.75,Europe
+26,Slovakia,152.55,Safety Index,69.82,Europe
+26,Slovakia,152.55,Health Care Index,62.63,Europe
+26,Slovakia,152.55,Cost of Living Index,44.9,Europe
+26,Slovakia,152.55,Property Price to Income Ratio,9.85,Europe
+26,Slovakia,152.55,Traffic Commute Time Index,36.03,Europe
+26,Slovakia,152.55,Pollution Index,43.51,Europe
+26,Slovakia,152.55,Climate Index,65.06,Europe
+27,Poland,150.21,Purchasing Power Index,71.75,Europe
+27,Poland,150.21,Safety Index,68.47,Europe
+27,Poland,150.21,Health Care Index,61.46,Europe
+27,Poland,150.21,Cost of Living Index,38.15,Europe
+27,Poland,150.21,Property Price to Income Ratio,10.12,Europe
+27,Poland,150.21,Traffic Commute Time Index,34.55,Europe
+27,Poland,150.21,Pollution Index,50.33,Europe
+27,Poland,150.21,Climate Index,62.53,Europe
+28,Taiwan,150.08,Purchasing Power Index,118.57,Asia
+28,Taiwan,150.08,Safety Index,82.76,Asia
+28,Taiwan,150.08,Health Care Index,81.14,Asia
+28,Taiwan,150.08,Cost of Living Index,61.38,Asia
+28,Taiwan,150.08,Property Price to Income Ratio,12.87,Asia
+28,Taiwan,150.08,Traffic Commute Time Index,32.69,Asia
+28,Taiwan,150.08,Pollution Index,62.91,Asia
+28,Taiwan,150.08,Climate Index,24.48,Asia
+29,Greece,148.32,Purchasing Power Index,58.24,Europe
+29,Greece,148.32,Safety Index,59.68,Europe
+29,Greece,148.32,Health Care Index,53.92,Europe
+29,Greece,148.32,Cost of Living Index,55.87,Europe
+29,Greece,148.32,Property Price to Income Ratio,8.33,Europe
+29,Greece,148.32,Traffic Commute Time Index,31.6,Europe
+29,Greece,148.32,Pollution Index,52.05,Europe
+29,Greece,148.32,Climate Index,87.25,Europe
+30,Japan,147.49,Purchasing Power Index,102.52,Asia
+30,Japan,147.49,Safety Index,79.11,Asia
+30,Japan,147.49,Health Care Index,78.63,Asia
+30,Japan,147.49,Cost of Living Index,85.28,Asia
+30,Japan,147.49,Property Price to Income Ratio,12.68,Asia
+30,Japan,147.49,Traffic Commute Time Index,46.81,Asia
+30,Japan,147.49,Pollution Index,41.01,Asia
+30,Japan,147.49,Climate Index,31.91,Asia
+31,Saudi Arabia,146.41,Purchasing Power Index,138.05,Asia
+31,Saudi Arabia,146.41,Safety Index,76.35,Asia
+31,Saudi Arabia,146.41,Health Care Index,60.41,Asia
+31,Saudi Arabia,146.41,Cost of Living Index,48.37,Asia
+31,Saudi Arabia,146.41,Property Price to Income Ratio,2.85,Asia
+31,Saudi Arabia,146.41,Traffic Commute Time Index,36.31,Asia
+31,Saudi Arabia,146.41,Pollution Index,74.18,Asia
+31,Saudi Arabia,146.41,Climate Index,17.96,Asia
+32,South Africa,144.72,Purchasing Power Index,98.96,Africa
+32,South Africa,144.72,Safety Index,24.28,Africa
+32,South Africa,144.72,Health Care Index,61.72,Africa
+32,South Africa,144.72,Cost of Living Index,43.12,Africa
+32,South Africa,144.72,Property Price to Income Ratio,3.58,Africa
+32,South Africa,144.72,Traffic Commute Time Index,42.98,Africa
+32,South Africa,144.72,Pollution Index,63.56,Africa
+32,South Africa,144.72,Climate Index,88.74,Africa
+33,Romania,143.04,Purchasing Power Index,53.44,Europe
+33,Romania,143.04,Safety Index,72.05,Europe
+33,Romania,143.04,Health Care Index,53.11,Europe
+33,Romania,143.04,Cost of Living Index,35.63,Europe
+33,Romania,143.04,Property Price to Income Ratio,10.79,Europe
+33,Romania,143.04,Traffic Commute Time Index,31.97,Europe
+33,Romania,143.04,Pollution Index,50.9,Europe
+33,Romania,143.04,Climate Index,64.45,Europe
+34,Italy,142.52,Purchasing Power Index,71.83,Europe
+34,Italy,142.52,Safety Index,55.34,Europe
+34,Italy,142.52,Health Care Index,66.31,Europe
+34,Italy,142.52,Cost of Living Index,83.7,Europe
+34,Italy,142.52,Property Price to Income Ratio,12.39,Europe
+34,Italy,142.52,Traffic Commute Time Index,36.38,Europe
+34,Italy,142.52,Pollution Index,51.57,Europe
+34,Italy,142.52,Climate Index,82.6,Europe
+35,Argentina,139.59,Purchasing Power Index,58.4,North and South America
+35,Argentina,139.59,Safety Index,37.37,North and South America
+35,Argentina,139.59,Health Care Index,73.3,North and South America
+35,Argentina,139.59,Cost of Living Index,52.57,North and South America
+35,Argentina,139.59,Property Price to Income Ratio,12.07,North and South America
+35,Argentina,139.59,Traffic Commute Time Index,37.95,North and South America
+35,Argentina,139.59,Pollution Index,53.33,North and South America
+35,Argentina,139.59,Climate Index,90.67,North and South America
+36,United Arab Emirates,139.27,Purchasing Power Index,116.77,Asia
+36,United Arab Emirates,139.27,Safety Index,79.34,Asia
+36,United Arab Emirates,139.27,Health Care Index,60.49,Asia
+36,United Arab Emirates,139.27,Cost of Living Index,67.98,Asia
+36,United Arab Emirates,139.27,Property Price to Income Ratio,5.6,Asia
+36,United Arab Emirates,139.27,Traffic Commute Time Index,35.05,Asia
+36,United Arab Emirates,139.27,Pollution Index,58.52,Asia
+36,United Arab Emirates,139.27,Climate Index,8.86,Asia
+37,Bosnia And Herzegovina,139.14,Purchasing Power Index,51.29,Europe
+37,Bosnia And Herzegovina,139.14,Safety Index,59.03,Europe
+37,Bosnia And Herzegovina,139.14,Health Care Index,61.49,Europe
+37,Bosnia And Herzegovina,139.14,Cost of Living Index,35.05,Europe
+37,Bosnia And Herzegovina,139.14,Property Price to Income Ratio,11.35,Europe
+37,Bosnia And Herzegovina,139.14,Traffic Commute Time Index,26.63,Europe
+37,Bosnia And Herzegovina,139.14,Pollution Index,60.69,Europe
+37,Bosnia And Herzegovina,139.14,Climate Index,73.29,Europe
+38,Hungary,138.82,Purchasing Power Index,47.52,Europe
+38,Hungary,138.82,Safety Index,61.61,Europe
+38,Hungary,138.82,Health Care Index,53.46,Europe
+38,Hungary,138.82,Cost of Living Index,42.77,Europe
+38,Hungary,138.82,Property Price to Income Ratio,11.2,Europe
+38,Hungary,138.82,Traffic Commute Time Index,33.09,Europe
+38,Hungary,138.82,Pollution Index,43.99,Europe
+38,Hungary,138.82,Climate Index,66.49,Europe
+39,Bulgaria,138.2,Purchasing Power Index,51.4,Europe
+39,Bulgaria,138.2,Safety Index,59.82,Europe
+39,Bulgaria,138.2,Health Care Index,54.03,Europe
+39,Bulgaria,138.2,Cost of Living Index,36.49,Europe
+39,Bulgaria,138.2,Property Price to Income Ratio,9.07,Europe
+39,Bulgaria,138.2,Traffic Commute Time Index,27.92,Europe
+39,Bulgaria,138.2,Pollution Index,63.12,Europe
+39,Bulgaria,138.2,Climate Index,77.05,Europe
+40,Chile,136.2,Purchasing Power Index,61.28,North and South America
+40,Chile,136.2,Safety Index,52.5,North and South America
+40,Chile,136.2,Health Care Index,60.97,North and South America
+40,Chile,136.2,Cost of Living Index,50.09,North and South America
+40,Chile,136.2,Property Price to Income Ratio,10.67,North and South America
+40,Chile,136.2,Traffic Commute Time Index,35.7,North and South America
+40,Chile,136.2,Pollution Index,67.67,North and South America
+40,Chile,136.2,Climate Index,89.39,North and South America
+41,Serbia,133.43,Purchasing Power Index,40.8,Europe
+41,Serbia,133.43,Safety Index,61.38,Europe
+41,Serbia,133.43,Health Care Index,53.86,Europe
+41,Serbia,133.43,Cost of Living Index,33.79,Europe
+41,Serbia,133.43,Property Price to Income Ratio,17.87,Europe
+41,Serbia,133.43,Traffic Commute Time Index,29.93,Europe
+41,Serbia,133.43,Pollution Index,55.29,Europe
+41,Serbia,133.43,Climate Index,82.66,Europe
+42,Qatar,132.37,Purchasing Power Index,111.28,Asia
+42,Qatar,132.37,Safety Index,84.3,Asia
+42,Qatar,132.37,Health Care Index,66.14,Asia
+42,Qatar,132.37,Cost of Living Index,69.2,Asia
+42,Qatar,132.37,Property Price to Income Ratio,6.19,Asia
+42,Qatar,132.37,Traffic Commute Time Index,32.97,Asia
+42,Qatar,132.37,Pollution Index,73.29,Asia
+42,Qatar,132.37,Climate Index,9.26,Asia
+43,Lithuania,130.28,Purchasing Power Index,51.67,Europe
+43,Lithuania,130.28,Safety Index,59.97,Europe
+43,Lithuania,130.28,Health Care Index,68.74,Europe
+43,Lithuania,130.28,Cost of Living Index,46.73,Europe
+43,Lithuania,130.28,Property Price to Income Ratio,14.19,Europe
+43,Lithuania,130.28,Traffic Commute Time Index,28,Europe
+43,Lithuania,130.28,Pollution Index,34.27,Europe
+43,Lithuania,130.28,Climate Index,25.04,Europe
+44,Turkey,129.63,Purchasing Power Index,55.64,Others
+44,Turkey,129.63,Safety Index,58.91,Others
+44,Turkey,129.63,Health Care Index,71.68,Others
+44,Turkey,129.63,Cost of Living Index,38.6,Others
+44,Turkey,129.63,Property Price to Income Ratio,8.87,Others
+44,Turkey,129.63,Traffic Commute Time Index,47.58,Others
+44,Turkey,129.63,Pollution Index,70.46,Others
+44,Turkey,129.63,Climate Index,73.19,Others
+45,Mexico,129.06,Purchasing Power Index,60.08,North and South America
+45,Mexico,129.06,Safety Index,49.68,North and South America
+45,Mexico,129.06,Health Care Index,70.11,North and South America
+45,Mexico,129.06,Cost of Living Index,29.81,North and South America
+45,Mexico,129.06,Property Price to Income Ratio,6.94,North and South America
+45,Mexico,129.06,Traffic Commute Time Index,41.66,North and South America
+45,Mexico,129.06,Pollution Index,66.74,North and South America
+45,Mexico,129.06,Climate Index,60.74,North and South America
+46,Belarus,119.23,Purchasing Power Index,36.43,Europe
+46,Belarus,119.23,Safety Index,77.74,Europe
+46,Belarus,119.23,Health Care Index,53.76,Europe
+46,Belarus,119.23,Cost of Living Index,33.84,Europe
+46,Belarus,119.23,Property Price to Income Ratio,18.73,Europe
+46,Belarus,119.23,Traffic Commute Time Index,27.66,Europe
+46,Belarus,119.23,Pollution Index,39.64,Europe
+46,Belarus,119.23,Climate Index,20.07,Europe
+47,Jordan,117.47,Purchasing Power Index,42.27,Asia
+47,Jordan,117.47,Safety Index,56.86,Asia
+47,Jordan,117.47,Health Care Index,71.92,Asia
+47,Jordan,117.47,Cost of Living Index,59.22,Asia
+47,Jordan,117.47,Property Price to Income Ratio,7.96,Asia
+47,Jordan,117.47,Traffic Commute Time Index,47.76,Asia
+47,Jordan,117.47,Pollution Index,85.73,Asia
+47,Jordan,117.47,Climate Index,88.42,Asia
+48,North Macedonia,116.42,Purchasing Power Index,39.85,Europe
+48,North Macedonia,116.42,Safety Index,61.34,Europe
+48,North Macedonia,116.42,Health Care Index,63.46,Europe
+48,North Macedonia,116.42,Cost of Living Index,30.93,Europe
+48,North Macedonia,116.42,Property Price to Income Ratio,14.67,Europe
+48,North Macedonia,116.42,Traffic Commute Time Index,33.79,Europe
+48,North Macedonia,116.42,Pollution Index,83.38,Europe
+48,North Macedonia,116.42,Climate Index,75.54,Europe
+49,Colombia,115.38,Purchasing Power Index,37.63,North and South America
+49,Colombia,115.38,Safety Index,48.31,North and South America
+49,Colombia,115.38,Health Care Index,65.79,North and South America
+49,Colombia,115.38,Cost of Living Index,34.45,North and South America
+49,Colombia,115.38,Property Price to Income Ratio,19.43,North and South America
+49,Colombia,115.38,Traffic Commute Time Index,43.77,North and South America
+49,Colombia,115.38,Pollution Index,63.9,North and South America
+49,Colombia,115.38,Climate Index,81.34,North and South America
+50,Lebanon,106.18,Purchasing Power Index,53.61,Asia
+50,Lebanon,106.18,Safety Index,50.84,Asia
+50,Lebanon,106.18,Health Care Index,64.28,Asia
+50,Lebanon,106.18,Cost of Living Index,61.65,Asia
+50,Lebanon,106.18,Property Price to Income Ratio,13.95,Asia
+50,Lebanon,106.18,Traffic Commute Time Index,36.15,Asia
+50,Lebanon,106.18,Pollution Index,85.11,Asia
+50,Lebanon,106.18,Climate Index,69.39,Asia
+51,India,101.52,Purchasing Power Index,76.73,Asia
+51,India,101.52,Safety Index,56.04,Asia
+51,India,101.52,Health Care Index,69.18,Asia
+51,India,101.52,Cost of Living Index,25.08,Asia
+51,India,101.52,Property Price to Income Ratio,10.28,Asia
+51,India,101.52,Traffic Commute Time Index,46.38,Asia
+51,India,101.52,Pollution Index,76.53,Asia
+51,India,101.52,Climate Index,9.3,Asia
+52,Iran,97.17,Purchasing Power Index,43.18,Asia
+52,Iran,97.17,Safety Index,49.1,Asia
+52,Iran,97.17,Health Care Index,51.55,Asia
+52,Iran,97.17,Cost of Living Index,38.26,Asia
+52,Iran,97.17,Property Price to Income Ratio,13.5,Asia
+52,Iran,97.17,Traffic Commute Time Index,49.7,Asia
+52,Iran,97.17,Pollution Index,82.51,Asia
+52,Iran,97.17,Climate Index,71.48,Asia
+53,Brazil,96.15,Purchasing Power Index,42.38,North and South America
+53,Brazil,96.15,Safety Index,29.38,North and South America
+53,Brazil,96.15,Health Care Index,51.7,North and South America
+53,Brazil,96.15,Cost of Living Index,53.07,North and South America
+53,Brazil,96.15,Property Price to Income Ratio,16.96,North and South America
+53,Brazil,96.15,Traffic Commute Time Index,46.39,North and South America
+53,Brazil,96.15,Pollution Index,61.17,North and South America
+53,Brazil,96.15,Climate Index,70.76,North and South America
+54,Hong Kong,94.45,Purchasing Power Index,81.45,Asia
+54,Hong Kong,94.45,Safety Index,79.32,Asia
+54,Hong Kong,94.45,Health Care Index,67.99,Asia
+54,Hong Kong,94.45,Cost of Living Index,79.96,Asia
+54,Hong Kong,94.45,Property Price to Income Ratio,36.15,Asia
+54,Hong Kong,94.45,Traffic Commute Time Index,42.22,Asia
+54,Hong Kong,94.45,Pollution Index,69.9,Asia
+54,Hong Kong,94.45,Climate Index,29.73,Asia
+55,Pakistan,93.41,Purchasing Power Index,39.95,Asia
+55,Pakistan,93.41,Safety Index,45.62,Asia
+55,Pakistan,93.41,Health Care Index,59.05,Asia
+55,Pakistan,93.41,Cost of Living Index,27.18,Asia
+55,Pakistan,93.41,Property Price to Income Ratio,12.09,Asia
+55,Pakistan,93.41,Traffic Commute Time Index,38.69,Asia
+55,Pakistan,93.41,Pollution Index,80.08,Asia
+55,Pakistan,93.41,Climate Index,42.54,Asia
+56,Egypt,91.81,Purchasing Power Index,29.39,Others
+56,Egypt,91.81,Safety Index,47.14,Others
+56,Egypt,91.81,Health Care Index,43.73,Others
+56,Egypt,91.81,Cost of Living Index,22.36,Others
+56,Egypt,91.81,Property Price to Income Ratio,10.66,Others
+56,Egypt,91.81,Traffic Commute Time Index,48.84,Others
+56,Egypt,91.81,Pollution Index,88.88,Others
+56,Egypt,91.81,Climate Index,75.59,Others
+57,China,90.95,Purchasing Power Index,67.84,Asia
+57,China,90.95,Safety Index,66.1,Asia
+57,China,90.95,Health Care Index,62.25,Asia
+57,China,90.95,Cost of Living Index,44.76,Asia
+57,China,90.95,Property Price to Income Ratio,23.29,Asia
+57,China,90.95,Traffic Commute Time Index,43.87,Asia
+57,China,90.95,Pollution Index,88.96,Asia
+57,China,90.95,Climate Index,38.7,Asia
+58,Sri Lanka,88.99,Purchasing Power Index,30.28,Asia
+58,Sri Lanka,88.99,Safety Index,65.43,Asia
+58,Sri Lanka,88.99,Health Care Index,80.04,Asia
+58,Sri Lanka,88.99,Cost of Living Index,33.47,Asia
+58,Sri Lanka,88.99,Property Price to Income Ratio,17.49,Asia
+58,Sri Lanka,88.99,Traffic Commute Time Index,47.19,Asia
+58,Sri Lanka,88.99,Pollution Index,61.9,Asia
+58,Sri Lanka,88.99,Climate Index,2.4,Asia
+59,Ukraine,87.49,Purchasing Power Index,26.93,Europe
+59,Ukraine,87.49,Safety Index,48.73,Europe
+59,Ukraine,87.49,Health Care Index,49.81,Europe
+59,Ukraine,87.49,Cost of Living Index,26.22,Europe
+59,Ukraine,87.49,Property Price to Income Ratio,22.87,Europe
+59,Ukraine,87.49,Traffic Commute Time Index,39.16,Europe
+59,Ukraine,87.49,Pollution Index,67.26,Europe
+59,Ukraine,87.49,Climate Index,49.94,Europe
+60,Singapore,86.5,Purchasing Power Index,92.7,Asia
+60,Singapore,86.5,Safety Index,83.42,Asia
+60,Singapore,86.5,Health Care Index,69.87,Asia
+60,Singapore,86.5,Cost of Living Index,82.41,Asia
+60,Singapore,86.5,Property Price to Income Ratio,21.63,Asia
+60,Singapore,86.5,Traffic Commute Time Index,43.39,Asia
+60,Singapore,86.5,Pollution Index,37.04,Asia
+60,Singapore,86.5,Climate Index,71.47,Asia
+61,Russia,85.93,Purchasing Power Index,48.27,Others
+61,Russia,85.93,Safety Index,53.95,Others
+61,Russia,85.93,Health Care Index,56.4,Others
+61,Russia,85.93,Cost of Living Index,42.01,Others
+61,Russia,85.93,Property Price to Income Ratio,13.55,Others
+61,Russia,85.93,Traffic Commute Time Index,48.57,Others
+61,Russia,85.93,Pollution Index,63.04,Others
+61,Russia,85.93,Climate Index,10.69,Others
+62,Indonesia,62.02,Purchasing Power Index,27.61,Asia
+62,Indonesia,62.02,Safety Index,50.32,Asia
+62,Indonesia,62.02,Health Care Index,64.8,Asia
+62,Indonesia,62.02,Cost of Living Index,41.11,Asia
+62,Indonesia,62.02,Property Price to Income Ratio,21.03,Asia
+62,Indonesia,62.02,Traffic Commute Time Index,49.44,Asia
+62,Indonesia,62.02,Pollution Index,76.41,Asia
+62,Indonesia,62.02,Climate Index,9.62,Asia
+63,Thailand,57.21,Purchasing Power Index,34.28,Asia
+63,Thailand,57.21,Safety Index,50.22,Asia
+63,Thailand,57.21,Health Care Index,80.66,Asia
+63,Thailand,57.21,Cost of Living Index,43.71,Asia
+63,Thailand,57.21,Property Price to Income Ratio,24.43,Asia
+63,Thailand,57.21,Traffic Commute Time Index,43.56,Asia
+63,Thailand,57.21,Pollution Index,73.23,Asia
+63,Thailand,57.21,Climate Index,20.21,Asia
+64,Philippines,56.87,Purchasing Power Index,36,Asia
+64,Philippines,56.87,Safety Index,60.23,Asia
+64,Philippines,56.87,Health Care Index,69.16,Asia
+64,Philippines,56.87,Cost of Living Index,34.71,Asia
+64,Philippines,56.87,Property Price to Income Ratio,16.91,Asia
+64,Philippines,56.87,Traffic Commute Time Index,45.14,Asia
+64,Philippines,56.87,Pollution Index,70.25,Asia
+64,Philippines,56.87,Climate Index,44.1,Asia
+65,Malaysia,51.65,Purchasing Power Index,73.34,Asia
+65,Malaysia,51.65,Safety Index,35.25,Asia
+65,Malaysia,51.65,Health Care Index,65.99,Asia
+65,Malaysia,51.65,Cost of Living Index,40.24,Asia
+65,Malaysia,51.65,Property Price to Income Ratio,9.53,Asia
+65,Malaysia,51.65,Traffic Commute Time Index,39.4,Asia
+65,Malaysia,51.65,Pollution Index,67.08,Asia
+65,Malaysia,51.65,Climate Index,79.43,Asia
+66,Vietnam,36.12,Purchasing Power Index,24.77,Asia
+66,Vietnam,36.12,Safety Index,47.04,Asia
+66,Vietnam,36.12,Health Care Index,47.87,Asia
+66,Vietnam,36.12,Cost of Living Index,40.11,Asia
+66,Vietnam,36.12,Property Price to Income Ratio,26.76,Asia
+66,Vietnam,36.12,Traffic Commute Time Index,33,Asia
+66,Vietnam,36.12,Pollution Index,88.1,Asia
+66,Vietnam,36.12,Climate Index,12.87,Asia
