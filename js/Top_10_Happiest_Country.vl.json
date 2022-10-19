@@ -1,0 +1,46 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "height": 400,
+  "width": 300,
+  "title": {"text": "Top 10 Happiest Country", "dy": -20, "fontSize": 21},
+  "data": {
+    "url": "https://raw.githubusercontent.com/HOOYW/FIT3179---Data-Visualization-2/main/data/Happiness.csv"
+  },
+  "transform": [
+    {
+      "window": [{"op": "rank", "as": "rank"}],
+      "sort": [{"field": "Life Satisfaction Index", "order": "descending"}]
+    },
+    {"joinaggregate": [{"op": "max", "field": "rank", "as": "total"}]},
+    {"filter": "(datum.Rank <= 10)"}
+  ],
+  "encoding": {
+    "y": {
+      "field": "Country",
+      "type": "nominal",
+      "axis": {"labelFontSize": 14, "titleFontSize": 16}
+    },
+    "x": {
+      "field": "Life Satisfaction Index",
+      "type": "quantitative",
+      "axis": {"labelFontSize": 14, "titleFontSize": 16}
+    }
+  },
+  "layer": [
+    {"mark": "bar"},
+    {
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "baseline": "middle",
+        "dx": 3,
+        "size": 14
+      },
+      "encoding": {
+        "text": {"field": "Life Satisfaction Index", "type": "quantitative"},
+        "tooltip": [{"field": "Country", "type": "nominal"}]
+      }
+    }
+  ],
+  "config": {}
+}

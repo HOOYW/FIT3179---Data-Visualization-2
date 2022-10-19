@@ -1,0 +1,80 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "height": 1200,
+  "width": 300,
+  "title": {
+    "text": "What determines Quality of Life Index?",
+    "dy": -20,
+    "fontSize": 21
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/HOOYW/FIT3179---Data-Visualization-2/main/data/Living%20Quality.csv"
+  },
+  "mark": "bar",
+  "transform": [
+    {
+      "filter": "Continent_Selection == null || datum.Continent == Continent_Selection"
+    }
+  ],
+  "params": [
+    {
+      "name": "Continent_Selection",
+      "bind": {
+        "input": "select",
+        "options": [
+          null,
+          "Asia",
+          "Africa",
+          "Europe",
+          "Oceania",
+          "North and South America",
+          "Others"
+        ],
+        "labels": [
+          "Global",
+          "Asia",
+          "Africa",
+          "Europe",
+          "Oceania",
+          "North and South America",
+          "Others"
+        ],
+        "name": "Continent Selection"
+      }
+    }
+  ],
+  "encoding": {
+    "x": {
+      "field": "Index",
+      "type": "quantitative",
+      "aggregate": "sum",
+      "scale": {"domain": [0, 500]},
+      "axis": {"labelFontSize": 14, "titleFontSize": 16}
+    },
+    "y": {
+      "field": "Country",
+      "type": "nominal",
+      "sort": {"field": "datum.Rank"},
+      "axis": {
+        "labelAlign": "left",
+        "labelPadding": 160,
+        "ticks": false,
+        "labelFontSize": 14,
+        "titleFontSize": 16
+      }
+    },
+    "color": {
+      "field": "Properties",
+      "type": "nominal",
+      "title": "Index List",
+      "legend": {"symbolSize": 180, "titleFontSize": 15, "labelFontSize": 10}
+    },
+    "tooltip": [
+      {"field": "Continent", "type": "nominal"},
+      {"field": "Country", "type": "nominal"},
+      {"field": "Properties", "type": "nominal"},
+      {"field": "Index", "type": "quantitative"}
+    ]
+  },
+  "config": {}
+}
