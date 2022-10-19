@@ -1,0 +1,58 @@
+body {
+	background-color: #d1d1bc;
+}
+
+.row {
+	align-content: center;
+	padding: 20px;
+}
+
+#text_row {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+#graph_row {
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+#text {
+	grid-area: intro;
+	text-align: center;
+	width: 75%;
+	font-size: 1.2em;
+	line-height: 2em;
+	background-color: rgb(240, 239, 236);
+	border-radius: 10px;
+}
+
+
+#GDP {
+	align-content: center;
+	left: 320px;
+	right: 320px;
+}
+
+
+#Highest_QLI {
+	align-content: center;
+	left: 440px;
+	right: 320px;
+	background-color: white;
+}
+
+#Factor_QLI {
+	align-content: center;
+	left: 380px;
+	right: 320px
+}
+
+#Top10_Happiest {
+	align-content: center;
+	left: 470px;
+	right: 320px
+}
+
